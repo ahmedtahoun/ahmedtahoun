@@ -7,6 +7,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open_to_new_roles-10b981?style=for-the-badge" alt="Open to new roles">
+  <a href="https://tahoun.wheretospot.com"><img src="https://img.shields.io/badge/Portfolio-tahoun.wheretospot.com-E8781E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
   <a href="https://linkedin.com/in/ah-ta"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:ahmed.tahoun.at@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
@@ -94,5 +95,5 @@ I work **AI-native**. Claude Code agents and MCP tools write a lot of the first 
 
 <p align="center">
   <b>Hiring for AI, full-stack or mobile work?</b><br>
-  <a href="mailto:ahmed.tahoun.at@gmail.com">ahmed.tahoun.at@gmail.com</a> · <a href="https://linkedin.com/in/ah-ta">linkedin.com/in/ah-ta</a>
+  <a href="https://tahoun.wheretospot.com">tahoun.wheretospot.com</a> · <a href="mailto:ahmed.tahoun.at@gmail.com">ahmed.tahoun.at@gmail.com</a> · <a href="https://linkedin.com/in/ah-ta">linkedin.com/in/ah-ta</a>
 </p>
