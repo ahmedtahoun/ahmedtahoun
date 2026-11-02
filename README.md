@@ -19,11 +19,6 @@
 
 10 years in tech, from IT support for the Dubai Roads &amp; Transport Authority to shipping my own products. Today I build web apps, iOS/Android apps and CRMs end to end, and I put LLMs into real business workflows with guardrails, human handover and cost control.
 
-- **500+** web, CRM and automation projects for **200+** clients
-- **12,000+** profiles shared in **60+** countries on Grevo, an NFC card and profile app I built
-- **4** countries running a production CRM I helped build (UAE, Egypt, KSA, Qatar)
-- **7** brands I ran digital and QR campaigns for, including Pandora Egypt and Pandora Jordan
-
 ---
 
 ### AI in production, not in slides
