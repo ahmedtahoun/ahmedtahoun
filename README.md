@@ -25,7 +25,7 @@
 
 - **AI sales assistant** ([shopwheretospot](https://github.com/ahmedtahoun/shopwheretospot)). Claude answers WhatsApp, Instagram and Messenger customers in their own language from live shop data. It returns structured JSON, hands complex chats to a human, strips phone numbers and emails before every call, and pauses itself at a monthly dollar cap. Prompt caching keeps it cheap.
 - **On-device first assistant** ([one-thing](https://github.com/ahmedtahoun/one-thing)). Common requests are answered on the phone, even offline. Claude is called only when needed, through a Supabase Edge Function that keeps the key server-side and meters use per plan.
-- **Expense bot.** A Telegram bot that turns text, voice notes and receipt photos into categorised expenses with the Gemini API, then sends daily, weekly and monthly summaries.
+- **Kipo** ([heykipo.com](https://heykipo.com)), my AI expense tracker in Telegram. People text it, send a voice note or snap a receipt, in any language and currency, and Gemini fills their own Google Sheet. It sends nightly summaries, voice summaries in Egyptian and Gulf Arabic under a daily cost cap, and runs on paid plans through Paymob and Polar.
 
 ---
 
@@ -33,6 +33,7 @@
 
 | Project | What it is | Built with |
 |---|---|---|
+| [**Kipo**](https://heykipo.com) · *live* | AI expense tracker inside Telegram with a self-filling Google Sheet and paid plans | Gemini · Telegram · Supabase Edge Functions · Google Sheets |
 | [**Rafiq Pro**](https://github.com/ahmedtahoun/rafiq-app) | Coaching marketplace app: bookings, live video sessions, payouts, push notifications | React 19 · TypeScript · Capacitor · Supabase · Playwright CI |
 | [**The One Thing**](https://github.com/ahmedtahoun/one-thing) | Bilingual EN/AR (RTL) productivity app with an AI assistant and in-app purchases | React Native · Expo · Supabase · Claude |
 | [**Where to Spot shop**](https://github.com/ahmedtahoun/shopwheretospot) | Omnichannel e-commerce with an AI sales assistant, payments and shipping webhooks | PHP · Claude · Paymob · Bosta · WhatsApp API |
